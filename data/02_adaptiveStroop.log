@@ -1,0 +1,61 @@
+20.9825 	INFO 	Loaded monitor calibration from ['2023_08_30 17:03']
+21.0000 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+21.6033 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6068 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6103 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6143 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6185 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6224 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6281 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6347 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6385 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6420 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6473 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6524 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6565 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6683 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6755 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6815 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6917 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.6994 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.7043 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.7050 	DEBUG 	Uploading Texture Font fontname to graphics card
+21.7301 	DEBUG 	Upload of Texture Font fontname complete
+21.7426 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.7481 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.7542 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+21.7548 	DEBUG 	Uploading Texture Font fontname to graphics card
+21.7826 	DEBUG 	Upload of Texture Font fontname complete
+22.1031 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A4AD4EC610>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A4AD4EC5B0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001A4AD4EC430>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001A4AD6EFFD0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+22.1033 	EXP 	window1: mouseVisible = True
+22.1033 	EXP 	window1: backgroundImage = ''
+22.1033 	EXP 	window1: backgroundFit = 'none'
+22.1076 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+22.1077 	EXP 	window1: recordFrameIntervals = False
+22.2683 	EXP 	window1: recordFrameIntervals = True
+22.4520 	EXP 	Screen (0) actual frame rate measured at 60.16Hz
+22.4521 	EXP 	window1: recordFrameIntervals = False
+22.4522 	EXP 	window1: mouseVisible = False
+32.2215 	INFO 	keyboard.Keyboard is using iohub backend.
+32.2215 	EXP 	adaptiveStroop: status = STARTED
+32.2222 	EXP 	window1: mouseVisible = True
+32.3484 	EXP 	Created instImage = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='inst_stroop_1.JPG', interpolate=True, mask=None, maskParams=None, name='instImage', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), size=array([1.33333333, 1.33333333]), texRes=128.0, units='norm', win=Window(...))
+32.3490 	EXP 	window1: mouseVisible = True
+32.6058 	EXP 	Created instText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instText', opacity=1.0, ori=0.0, pos=array([ 0. , -0.8]), rgb=UNKNOWN, text='Press bar to continue', units='norm', win=Window(...), wrapWidth=1)
+32.6059 	INFO 	keyboard.Keyboard is using iohub backend.
+32.6062 	EXP 	window1: mouseVisible = True
+32.7192 	EXP 	Created instImage2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='inst_stroop_2.JPG', interpolate=True, mask=None, maskParams=None, name='instImage2', opacity=1.0, ori=0.0, pos=array([0. , 0.1]), size=array([1.33333333, 1.33333333]), texRes=128.0, units='norm', win=Window(...))
+32.7194 	EXP 	window1: mouseVisible = True
+32.7248 	EXP 	Created instText_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='instText_2', opacity=1.0, ori=0.0, pos=array([ 0. , -0.8]), rgb=UNKNOWN, text='Press bar to continue', units='norm', win=Window(...), wrapWidth=1)
+32.7249 	INFO 	keyboard.Keyboard is using iohub backend.
+32.7250 	EXP 	window1: mouseVisible = True
+32.7408 	EXP 	Created startText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='startText', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Press bar to start \nthe experimental task', units='norm', win=Window(...), wrapWidth=1)
+32.7408 	INFO 	keyboard.Keyboard is using iohub backend.
+32.7410 	EXP 	window1: mouseVisible = True
+32.7483 	EXP 	Created waitScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='waitScreen', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Generating stimuli...', units='norm', win=Window(...), wrapWidth=1)
+32.9274 	EXP 	window1: mouseVisible = True
+32.9299 	DEBUG 	Saving data for adaptiveStroop ExperimentHandler
+32.9334 	INFO 	saved data to D:\github\study2\stroop-task\data/02_adaptiveStroop.psydat
+32.9369 	INFO 	saved data to 'D:\\github\\study2\\stroop-task\\data/02_adaptiveStroop.csv'
