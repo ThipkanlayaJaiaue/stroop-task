@@ -15,7 +15,7 @@ This repository contains code and setup for running Stroop tasks in different co
 
 
 
-### 🔧 **Task setup and modification instructions**
+### 🔧 **Task setup and modification instructions (user-friendly version)**
 
 
 
